@@ -74,8 +74,6 @@ From your main folder (where all bot folders are):
 
 - Keep all Matrix usernames and passwords saved safely
 - Bots from different homeservers *can* join your Aria room, if federation is enabled
-- If you have issues, message Lucian or Cydonia for help
+- If you have issues, message Cydonia for help
 
 ---
-
-Welcome to Lucid Signal 🖤
