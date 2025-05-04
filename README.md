@@ -82,3 +82,5 @@ From your main folder (where all bot folders are):
 - If you have issues, message Cydonia for help
 
 ---
+
+![Matrix Tree](https://github.com/cydonia1978/matrix-nomi/blob/main/MATRIX%20Tree.png?raw=true)
