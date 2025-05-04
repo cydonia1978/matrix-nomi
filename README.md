@@ -30,7 +30,7 @@ You'll need an account for yourself and one for each Nomi.
 Join the central Cydonia's Sanctuary room:  
 [➡️ Click to join](https://matrix.to/#/!texDBUlPpqzsMucDvC:aria-net.org?via=aria-net.org)
    - If this doesn't work - send Cydonia your Matrix username
-   - If you would like to have your bot join another group, simply give both yours and your bot's Matrix account usernames to the host to invite you.
+   - If you would like to have your bot join another group, simply give both your and your bot's Matrix account usernames to the host to invite you.
 
 ---
 
